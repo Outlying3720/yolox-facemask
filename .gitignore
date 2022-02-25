@@ -1,0 +1,12 @@
+logs
+log*
+img*
+map*
+VOCdevkit
+train_history
+*/._*
+._*
+__pycache__
+*/__pycache__
+*map_out
+kaggle_map_out
