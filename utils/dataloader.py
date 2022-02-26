@@ -50,6 +50,7 @@ class YoloDataset(Dataset):
             box[:, 2:4] = box[:, 2:4] - box[:, 0:2]
             box[:, 0:2] = box[:, 0:2] + box[:, 2:4] / 2
         
+        print(np.shape(image))
         cv2.imwrite(self.rand(), cv2.cvtColor(image, cv2.COLOR_RGB2YCrCb))
         return cv2.cvtColor(image, cv2.COLOR_RGB2YCrCb), box
         return image, box
