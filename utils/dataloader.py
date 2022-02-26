@@ -49,6 +49,9 @@ class YoloDataset(Dataset):
         if len(box) != 0:
             box[:, 2:4] = box[:, 2:4] - box[:, 0:2]
             box[:, 0:2] = box[:, 0:2] + box[:, 2:4] / 2
+        
+        cv2.imwrite(self.rand(), cv2.cvtColor(image, cv2.COLOR_RGB2YCrCb))
+        return cv2.cvtColor(image, cv2.COLOR_RGB2YCrCb), box
         return image, box
 
     def rand(self, a=0, b=1):

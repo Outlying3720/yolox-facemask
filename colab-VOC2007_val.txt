@@ -1,0 +1,637 @@
+/content/VOC2007/JPEGImages/test_00004851.jpg 220,101,429,388,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_247.jpg 368,104,572,366,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_303.jpg 468,84,606,230,0
+/content/VOC2007/JPEGImages/test_00001936.jpg 52,191,287,497,1
+/content/VOC2007/JPEGImages/test_00000269.jpg 115,89,196,243,1
+/content/VOC2007/JPEGImages/test_00003354.jpg 419,56,648,346,1
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_440.jpg 318,212,534,566,0 460,184,768,514,0
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_718.jpg 462,162,558,303,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_392.jpg 442,214,570,330,0
+/content/VOC2007/JPEGImages/40_Gymnastics_Gymnastics_40_488.jpg 452,147,587,333,0
+/content/VOC2007/JPEGImages/test_00004577.jpg 125,138,595,736,1
+/content/VOC2007/JPEGImages/test_00000604.jpg 356,303,825,984,1
+/content/VOC2007/JPEGImages/test_00001846.jpg 143,69,258,261,0
+/content/VOC2007/JPEGImages/19_Couple_Couple_19_39.jpg 618,266,696,368,0 716,204,810,334,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_467.jpg 258,102,410,306,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_407.jpg 404,86,584,347,0
+/content/VOC2007/JPEGImages/56_Voter_peoplevoting_56_103.jpg 456,327,894,886,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_621.jpg 364,77,527,294,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_398.jpg 482,684,560,801,0
+/content/VOC2007/JPEGImages/test_00003587.jpg 375,218,777,740,1
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_168.jpg 310,84,374,178,0 662,54,730,152,0
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_841.jpg 395,539,475,635,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_164.jpg 352,148,440,292,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_2_People_Visible_13_253.jpg 334,208,742,750,0
+/content/VOC2007/JPEGImages/52_Photographers_taketouristphotos_52_13.jpg 823,103,938,220,0 214,61,255,112,0 637,369,657,394,0 703,379,718,401,0
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_240.jpg 684,119,740,198,0 839,95,895,177,0 109,152,168,233,0 255,187,309,266,0 400,219,452,284,0 530,163,589,242,0
+/content/VOC2007/JPEGImages/test_00002022.jpg 378,180,537,387,1
+/content/VOC2007/JPEGImages/test_00002877.jpg 99,24,119,69,1
+/content/VOC2007/JPEGImages/test_00002060.jpg 364,137,393,176,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_439.jpg 301,204,622,608,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_433.jpg 406,74,590,308,0
+/content/VOC2007/JPEGImages/test_00002202.jpg 216,66,294,187,1 67,230,133,319,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_326.jpg 614,122,676,222,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_189.jpg 290,2,706,544,0
+/content/VOC2007/JPEGImages/59_peopledrivingcar_peopledrivingcar_59_269.jpg 198,274,234,326,0 683,159,719,207,0
+/content/VOC2007/JPEGImages/test_00002912.jpg 210,97,321,236,0
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_130.jpg 92,1,924,688,0
+/content/VOC2007/JPEGImages/test_00001879.jpg 61,57,158,163,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_570.jpg 409,425,753,865,0
+/content/VOC2007/JPEGImages/test_00000475.jpg 282,122,464,384,0
+/content/VOC2007/JPEGImages/test_00001703.jpg 221,205,767,1001,1
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_307.jpg 302,248,477,507,0
+/content/VOC2007/JPEGImages/test_00003082.jpg 384,104,512,317,1
+/content/VOC2007/JPEGImages/test_00001412.jpg 577,138,649,237,0 312,113,362,183,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_130.jpg 508,143,550,199,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_1024.jpg 314,180,508,450,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_917.jpg 891,139,977,233,0 809,210,876,285,0 770,236,818,307,0 611,277,670,348,0 424,305,478,370,0 323,349,376,405,0 286,335,321,384,0 186,369,221,406,0 240,378,273,424,0 102,387,140,429,0 53,435,81,465,0 155,417,178,446,0 24,407,36,427,0
+/content/VOC2007/JPEGImages/19_Couple_Couple_19_24.jpg 182,160,362,362,0 232,212,440,380,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_80.jpg 610,167,812,433,0
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_1027.jpg 268,385,684,889,0
+/content/VOC2007/JPEGImages/test_00002318.jpg 110,56,219,213,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_281.jpg 456,141,576,294,0
+/content/VOC2007/JPEGImages/test_00001888.jpg 199,146,407,411,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_431.jpg 156,194,282,394,0 462,80,614,332,0 770,246,916,396,0
+/content/VOC2007/JPEGImages/19_Couple_Couple_19_771.jpg 240,28,314,134,0 400,148,460,226,0 642,116,698,202,0 772,70,838,152,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_914.jpg 333,399,468,573,0 766,51,949,291,0 27,721,114,925,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_718.jpg 87,324,795,1155,0
+/content/VOC2007/JPEGImages/test_00003890.jpg 321,87,361,141,1
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_316.jpg 380,283,635,602,0
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_517.jpg 254,152,532,440,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_2_People_Visible_13_92.jpg 882,166,919,233,0 399,62,435,118,0
+/content/VOC2007/JPEGImages/test_00001690.jpg 347,70,462,262,1
+/content/VOC2007/JPEGImages/test_00003707.jpg 372,119,644,495,1
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_1010.jpg 398,196,460,304,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_233.jpg 495,288,579,411,0
+/content/VOC2007/JPEGImages/test_00001852.jpg 191,99,278,216,1
+/content/VOC2007/JPEGImages/test_00000951.jpg 119,216,187,320,1 44,643,187,845,1 341,648,504,844,1
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_484.jpg 390,183,658,541,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_461.jpg 312,652,486,937,0 390,601,657,871,0
+/content/VOC2007/JPEGImages/test_00004450.jpg 150,32,243,168,0
+/content/VOC2007/JPEGImages/test_00003575.jpg 215,73,417,362,1
+/content/VOC2007/JPEGImages/test_00000600.jpg 372,21,510,223,0 177,207,348,448,1 32,328,100,430,0 547,97,645,233,0 1,319,38,442,0
+/content/VOC2007/JPEGImages/test_00004271.jpg 135,73,312,328,1
+/content/VOC2007/JPEGImages/test_00000580.jpg 44,2,129,137,1
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_292.jpg 612,111,708,236,0 709,105,769,217,0 313,193,384,282,0 177,218,241,327,0 112,71,158,144,0 277,91,309,128,0 57,254,117,318,0 46,146,86,196,0 221,181,288,269,0 882,196,952,301,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_820.jpg 180,174,500,600,0 480,32,740,484,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_948.jpg 671,234,709,288,0
+/content/VOC2007/JPEGImages/test_00002752.jpg 354,145,482,304,1
+/content/VOC2007/JPEGImages/test_00000154.jpg 124,51,167,98,1
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_143.jpg 258,223,685,852,0
+/content/VOC2007/JPEGImages/test_00003627.jpg 82,116,389,562,0
+/content/VOC2007/JPEGImages/test_00001105.jpg 83,69,148,146,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_587.jpg 161,172,193,220,0 481,154,515,198,0 511,229,545,278,0 640,205,666,256,0 757,168,792,213,0 776,227,806,273,0 825,316,855,361,0 904,186,934,229,0 849,97,879,128,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_413.jpg 462,254,577,405,0
+/content/VOC2007/JPEGImages/test_00001316.jpg 567,594,661,704,0 329,285,489,478,1
+/content/VOC2007/JPEGImages/test_00004299.jpg 164,117,213,182,0 92,92,146,165,0 263,90,320,168,0 5,52,64,131,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_324.jpg 565,294,604,353,0 504,291,526,332,0 384,229,409,253,0
+/content/VOC2007/JPEGImages/52_Photographers_taketouristphotos_52_18.jpg 280,109,312,148,0
+/content/VOC2007/JPEGImages/test_00001466.jpg 390,183,580,493,1
+/content/VOC2007/JPEGImages/test_00004202.jpg 96,79,167,201,0
+/content/VOC2007/JPEGImages/test_00001871.jpg 221,168,393,385,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_328.jpg 417,60,446,89,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_366.jpg 598,278,684,400,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_24.jpg 187,76,245,159,0 802,115,850,176,0
+/content/VOC2007/JPEGImages/test_00004162.jpg 233,82,383,288,1
+/content/VOC2007/JPEGImages/test_00002571.jpg 96,33,126,67,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_902.jpg 274,339,822,1105,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_202.jpg 703,135,739,182,0 185,132,203,177,0
+/content/VOC2007/JPEGImages/test_00001175.jpg 261,138,406,296,0
+/content/VOC2007/JPEGImages/test_00000716.jpg 381,142,577,429,0
+/content/VOC2007/JPEGImages/test_00000729.jpg 214,125,408,404,1 164,184,237,337,0
+/content/VOC2007/JPEGImages/20_Family_Group_Family_Group_20_599.jpg 391,272,480,365,0 678,490,763,588,0 640,644,712,711,0 410,675,482,749,0 216,687,293,775,0
+/content/VOC2007/JPEGImages/20_Family_Group_Family_Group_20_739.jpg 372,232,506,424,0 528,204,652,380,0
+/content/VOC2007/JPEGImages/39_Ice_Skating_Ice_Skating_39_57.jpg 325,145,362,193,0
+/content/VOC2007/JPEGImages/test_00000180.jpg 103,42,136,86,1
+/content/VOC2007/JPEGImages/test_00001785.jpg 342,104,620,467,1
+/content/VOC2007/JPEGImages/test_00000236.jpg 99,94,201,223,1
+/content/VOC2007/JPEGImages/test_00001964.jpg 141,170,298,408,1
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_850.jpg 739,166,756,190,0 729,172,746,196,0 666,168,687,197,0 626,166,643,194,0
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_358.jpg 702,58,818,198,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_151.jpg 204,247,243,311,0 268,250,309,312,0
+/content/VOC2007/JPEGImages/61_Street_Battle_streetfight_61_724.jpg 383,261,671,634,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_885.jpg 376,66,694,404,0
+/content/VOC2007/JPEGImages/test_00001086.jpg 289,52,514,374,1
+/content/VOC2007/JPEGImages/test_00004298.jpg 180,83,346,289,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_121.jpg 418,144,662,494,0
+/content/VOC2007/JPEGImages/test_00002468.jpg 277,100,397,266,1
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_663.jpg 90,129,916,1153,0
+/content/VOC2007/JPEGImages/test_00000532.jpg 46,1,119,105,1
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_1028.jpg 505,238,658,437,0
+/content/VOC2007/JPEGImages/test_00002657.jpg 107,90,404,461,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_476.jpg 372,426,411,460,0 581,442,606,478,0
+/content/VOC2007/JPEGImages/test_00000464.jpg 359,79,423,181,1
+/content/VOC2007/JPEGImages/test_00004768.jpg 310,116,388,201,1 212,87,278,148,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_912.jpg 301,270,704,902,0
+/content/VOC2007/JPEGImages/test_00002872.jpg 355,79,427,175,0 196,115,275,197,0
+/content/VOC2007/JPEGImages/test_00002665.jpg 413,125,615,398,1
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_331.jpg 274,20,756,512,0
+/content/VOC2007/JPEGImages/8_Election_Campain_Election_Campaign_8_553.jpg 438,118,550,260,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_746.jpg 218,32,284,128,0 714,58,816,202,0
+/content/VOC2007/JPEGImages/test_00003810.jpg 189,80,391,325,1
+/content/VOC2007/JPEGImages/9_Press_Conference_Press_Conference_9_933.jpg 304,265,729,858,0
+/content/VOC2007/JPEGImages/test_00004610.jpg 146,13,271,187,0
+/content/VOC2007/JPEGImages/test_00002408.jpg 62,23,117,94,1
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_269.jpg 815,50,887,124,0 450,49,506,116,0 252,114,294,167,0 150,177,208,242,0 57,165,104,216,0 688,209,713,242,0 575,118,612,168,0 288,163,322,206,0
+/content/VOC2007/JPEGImages/test_00001680.jpg 30,9,158,210,1
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_580.jpg 594,142,677,255,0 795,158,822,197,0 481,216,531,264,0 929,171,966,212,0 546,159,574,202,0 313,190,349,237,0 181,164,273,281,0
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_851.jpg 34,12,542,630,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_96.jpg 508,410,632,609,0
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_905.jpg 617,49,877,346,0 432,85,661,406,0 197,1123,243,1189,0 79,975,120,1042,0
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_6.jpg 101,283,125,316,0 48,286,72,316,0 0,293,23,330,0 106,362,133,395,0 307,353,333,384,0 547,249,572,283,0 825,300,844,327,0 889,307,913,338,0 953,275,980,304,0 905,283,928,312,0 698,655,778,711,0 363,288,385,316,0
+/content/VOC2007/JPEGImages/19_Couple_Couple_19_70.jpg 344,176,488,347,0 608,235,744,411,0
+/content/VOC2007/JPEGImages/test_00001396.jpg 27,13,266,311,1 330,106,549,380,1
+/content/VOC2007/JPEGImages/test_00001263.jpg 268,92,530,452,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_485.jpg 304,240,470,474,0
+/content/VOC2007/JPEGImages/test_00003718.jpg 241,198,353,321,1
+/content/VOC2007/JPEGImages/test_00003206.jpg 51,27,83,75,0 105,13,148,66,0
+/content/VOC2007/JPEGImages/test_00001679.jpg 302,168,556,525,1
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_258.jpg 390,342,495,486,0 649,279,748,426,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_795.jpg 455,237,542,363,0
+/content/VOC2007/JPEGImages/test_00001200.jpg 317,70,507,322,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_99.jpg 279,498,384,696,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_586.jpg 588,202,840,466,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_1029.jpg 246,82,320,170,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_539.jpg 419,664,862,1243,0
+/content/VOC2007/JPEGImages/test_00004487.jpg 256,116,529,497,1
+/content/VOC2007/JPEGImages/45_Balloonist_Balloonist_45_79.jpg 142,82,182,130,0 291,212,329,259,0 520,66,578,120,0 749,47,788,97,0 398,276,432,323,0
+/content/VOC2007/JPEGImages/test_00000323.jpg 21,19,164,163,1
+/content/VOC2007/JPEGImages/test_00000292.jpg 79,82,229,279,1
+/content/VOC2007/JPEGImages/52_Photographers_taketouristphotos_52_514.jpg 484,224,540,304,0
+/content/VOC2007/JPEGImages/test_00003549.jpg 254,186,841,988,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_172.jpg 300,182,390,270,0
+/content/VOC2007/JPEGImages/52_Photographers_taketouristphotos_52_193.jpg 393,142,419,172,0 807,117,833,149,0 89,432,106,457,0 87,373,98,393,0
+/content/VOC2007/JPEGImages/39_Ice_Skating_Ice_Skating_39_55.jpg 226,416,344,576,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_583.jpg 694,246,787,390,0 447,276,537,426,0 243,255,330,405,0 285,216,360,348,0 471,216,570,375,0
+/content/VOC2007/JPEGImages/test_00003182.jpg 294,69,397,217,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_944.jpg 189,405,778,1222,0
+/content/VOC2007/JPEGImages/test_00001908.jpg 180,49,338,246,1
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_79.jpg 63,203,93,242,0 634,85,651,102,0 896,201,918,234,0 928,177,944,205,0 951,159,970,187,0 1001,154,1018,179,0 971,174,1000,212,0 937,142,961,168,0 1001,107,1020,131,0 975,82,991,104,0 918,94,933,115,0 899,61,914,80,0 103,155,136,203,0 390,173,426,219,0 473,147,508,199,0 848,168,884,221,0 804,217,840,270,0 442,180,460,208,0 532,177,550,203,0 559,179,577,206,0 574,215,595,243,0 585,161,602,186,0 605,182,623,208,0 638,191,661,225,0 635,171,655,196,0 654,100,669,120,0 663,216,686,246,0 708,202,725,234,0 691,178,712,206,0 695,153,710,178,0 708,152,726,180,0 773,144,793,171,0 716,108,731,129,0 756,222,779,257,0 762,101,779,124,0 767,81,784,105,0 815,77,835,104,0 854,80,870,102,0 869,106,884,125,0 895,160,914,187,0 586,102,604,126,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_22.jpg 32,12,512,568,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_482.jpg 262,178,542,622,0 508,166,766,568,0
+/content/VOC2007/JPEGImages/test_00004340.jpg 324,78,375,145,0 161,104,192,143,0 246,106,297,172,0
+/content/VOC2007/JPEGImages/test_00001205.jpg 674,42,760,181,1 685,584,758,698,1 223,143,480,549,1 658,311,753,443,1
+/content/VOC2007/JPEGImages/test_00004292.jpg 293,192,528,493,1
+/content/VOC2007/JPEGImages/test_00000210.jpg 153,79,215,158,1
+/content/VOC2007/JPEGImages/test_00000837.jpg 489,164,553,251,1 226,174,280,249,1
+/content/VOC2007/JPEGImages/test_00002098.jpg 196,125,378,369,1
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_239.jpg 566,106,676,260,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_2_People_Visible_13_8.jpg 226,162,275,230,0 226,27,275,89,0 312,61,383,161,0 387,13,435,75,0 526,66,566,117,0 523,177,564,238,0 620,103,682,177,0 673,41,712,91,0 818,177,849,238,0 830,53,850,103,0
+/content/VOC2007/JPEGImages/test_00004855.jpg 127,145,211,294,1
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_306.jpg 725,178,771,266,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_209.jpg 196,138,290,280,0 616,38,696,214,0
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_91.jpg 34,160,58,188,0 124,171,144,197,0 214,149,238,179,0 295,182,316,209,0 339,43,382,103,0 675,177,696,204,0 749,161,771,188,0 834,61,872,117,0 994,166,1017,197,0 567,167,589,194,0 484,168,503,195,0 670,120,685,140,0 405,174,419,198,0
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_27.jpg 486,126,542,194,0 594,90,648,168,0
+/content/VOC2007/JPEGImages/test_00002805.jpg 292,178,469,470,1
+/content/VOC2007/JPEGImages/test_00000338.jpg 92,132,247,340,1
+/content/VOC2007/JPEGImages/test_00003420.jpg 72,58,282,334,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_1002.jpg 29,210,67,269,0 177,186,220,258,0 213,259,234,284,0 254,256,273,278,0 332,217,370,261,0 406,234,425,256,0 463,230,507,284,0 579,207,619,252,0 698,227,718,248,0 717,155,767,232,0 979,153,1024,214,0 539,224,558,250,0
+/content/VOC2007/JPEGImages/test_00003263.jpg 123,149,170,196,1 356,81,407,147,1
+/content/VOC2007/JPEGImages/test_00003267.jpg 338,165,569,510,1
+/content/VOC2007/JPEGImages/test_00003641.jpg 218,124,403,383,1
+/content/VOC2007/JPEGImages/27_Spa_Spa_27_400.jpg 566,690,732,786,0 248,632,308,692,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_355.jpg 213,139,520,518,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_188.jpg 516,86,712,390,0
+/content/VOC2007/JPEGImages/test_00001404.jpg 86,92,145,172,1
+/content/VOC2007/JPEGImages/test_00001923.jpg 162,199,243,350,1
+/content/VOC2007/JPEGImages/47_Matador_Bullfighter_Matador_Bullfighter_47_385.jpg 335,33,434,175,0 630,109,722,222,0
+/content/VOC2007/JPEGImages/test_00001347.jpg 131,71,244,219,1
+/content/VOC2007/JPEGImages/test_00003151.jpg 140,120,218,225,0 707,152,772,235,0 464,125,531,217,1
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_56.jpg 238,158,314,238,0 388,126,446,204,0 474,128,548,240,0 101,1,157,44,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_14.jpg 456,136,756,594,0
+/content/VOC2007/JPEGImages/test_00003361.jpg 106,85,237,261,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_728.jpg 488,166,738,542,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_519.jpg 364,234,544,472,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_870.jpg 614,152,722,292,0
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_418.jpg 683,755,766,851,0
+/content/VOC2007/JPEGImages/test_00000219.jpg 108,40,182,139,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_419.jpg 178,50,440,350,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_498.jpg 278,268,384,400,0 536,142,646,294,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_441.jpg 461,390,474,406,0
+/content/VOC2007/JPEGImages/30_Surgeons_Surgeons_30_739.jpg 191,198,259,286,0 344,227,414,319,0 479,137,559,234,0 391,87,458,172,0 30,2,93,73,0 160,50,216,117,0 273,70,344,147,0 553,136,602,212,0 701,157,770,248,0 842,183,905,257,0 1008,171,1024,257,0 45,183,109,265,0
+/content/VOC2007/JPEGImages/test_00004007.jpg 417,223,576,475,1 70,147,240,385,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_575.jpg 440,110,528,238,0 666,48,746,212,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_181.jpg 441,153,660,483,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_747.jpg 338,19,573,307,0
+/content/VOC2007/JPEGImages/test_00000877.jpg 189,62,274,169,1
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_133.jpg 504,56,580,134,0
+/content/VOC2007/JPEGImages/test_00004901.jpg 161,2,413,389,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_62.jpg 430,202,634,512,0
+/content/VOC2007/JPEGImages/test_00004845.jpg 216,91,286,199,1
+/content/VOC2007/JPEGImages/test_00004830.jpg 150,176,424,525,1
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_717.jpg 592,82,744,260,0
+/content/VOC2007/JPEGImages/test_00002507.jpg 122,0,665,677,1
+/content/VOC2007/JPEGImages/test_00004661.jpg 79,158,358,616,1
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_122.jpg 676,126,750,248,0
+/content/VOC2007/JPEGImages/test_00004867.jpg 164,0,418,376,1
+/content/VOC2007/JPEGImages/test_00003824.jpg 315,214,631,637,1
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_118.jpg 366,84,536,294,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_824.jpg 467,121,649,373,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_247.jpg 510,80,644,278,0
+/content/VOC2007/JPEGImages/test_00000784.jpg 233,442,307,554,1 1,416,37,527,1
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_872.jpg 288,200,344,276,0 612,182,668,264,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_340.jpg 564,348,633,438,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_3.jpg 290,40,398,172,0 604,226,700,366,0
+/content/VOC2007/JPEGImages/test_00001740.jpg 226,0,652,704,1
+/content/VOC2007/JPEGImages/45_Balloonist_Balloonist_45_125.jpg 290,172,370,276,0 754,202,870,324,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_686.jpg 272,76,366,292,0 714,210,832,380,0 48,120,128,232,0 436,212,510,318,0 562,320,656,410,0 300,256,382,378,0
+/content/VOC2007/JPEGImages/test_00004100.jpg 344,43,399,108,0 267,123,304,159,0 207,142,236,179,0 125,138,158,180,1 32,163,67,203,0
+/content/VOC2007/JPEGImages/39_Ice_Skating_Ice_Skating_39_825.jpg 498,156,560,256,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_852.jpg 268,208,498,490,0
+/content/VOC2007/JPEGImages/45_Balloonist_Balloonist_45_95.jpg 469,1080,589,1235,0
+/content/VOC2007/JPEGImages/test_00004798.jpg 278,33,406,149,1
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_786.jpg 537,213,793,643,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_877.jpg 386,140,433,204,0 391,543,471,647,0 865,620,931,681,0 1004,456,1024,535,0 892,292,933,359,0 784,250,828,297,0 631,236,660,277,0
+/content/VOC2007/JPEGImages/test_00002970.jpg 57,123,351,554,1 498,200,787,569,1
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_369.jpg 168,236,252,334,0 328,226,398,324,0 482,232,558,326,0 618,228,686,330,0 778,232,852,336,0
+/content/VOC2007/JPEGImages/test_00001274.jpg 127,12,286,233,1
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_388.jpg 405,243,537,441,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_126.jpg 450,176,644,374,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_824.jpg 375,9,961,646,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_391.jpg 688,190,812,364,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_89.jpg 367,464,431,554,0 641,518,705,610,0
+/content/VOC2007/JPEGImages/27_Spa_Spa_27_896.jpg 564,216,644,318,0 710,234,788,328,0
+/content/VOC2007/JPEGImages/test_00002496.jpg 579,145,620,190,1
+/content/VOC2007/JPEGImages/19_Couple_Couple_19_463.jpg 56,276,220,478,0 390,444,532,642,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_581.jpg 378,118,624,490,0
+/content/VOC2007/JPEGImages/test_00000440.jpg 45,24,137,144,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_572.jpg 93,169,484,772,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_854.jpg 385,34,405,70,0 727,113,775,166,0 881,57,903,87,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_2_People_Visible_13_397.jpg 422,174,584,420,0
+/content/VOC2007/JPEGImages/test_00002107.jpg 211,134,343,290,0
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_22.jpg 217,86,305,246,0 647,211,738,326,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_57.jpg 435,147,558,312,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_860.jpg 328,155,351,186,0 430,161,443,169,0 909,177,944,216,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_119.jpg 325,215,424,363,0 804,102,917,264,0
+/content/VOC2007/JPEGImages/20_Family_Group_Family_Group_20_100.jpg 162,150,232,240,0 306,156,378,248,0 494,172,580,272,0 688,194,770,300,0 874,36,976,170,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_970.jpg 374,250,494,424,0
+/content/VOC2007/JPEGImages/20_Family_Group_Family_Group_20_318.jpg 180,160,252,264,0 424,44,502,152,0 750,272,816,366,0 872,200,978,334,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_136.jpg 123,94,306,322,0 206,434,372,655,0 548,551,566,578,0 463,4,498,54,0 714,161,946,442,0 819,8,832,26,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_258.jpg 493,298,615,414,0 412,287,507,422,0
+/content/VOC2007/JPEGImages/test_00001649.jpg 273,93,568,502,1
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_1.jpg 362,108,534,336,0
+/content/VOC2007/JPEGImages/test_00002195.jpg 104,34,182,131,1
+/content/VOC2007/JPEGImages/test_00002619.jpg 129,171,412,567,1
+/content/VOC2007/JPEGImages/test_00004581.jpg 143,113,306,373,1
+/content/VOC2007/JPEGImages/test_00003237.jpg 81,138,130,198,0 175,130,222,174,0 344,106,392,165,0 254,137,294,193,0
+/content/VOC2007/JPEGImages/45_Balloonist_Balloonist_45_733.jpg 264,24,504,332,0 618,164,802,404,0
+/content/VOC2007/JPEGImages/test_00002894.jpg 253,166,615,639,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_35.jpg
+/content/VOC2007/JPEGImages/test_00004846.jpg 192,55,412,369,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_112.jpg 482,328,584,464,0
+/content/VOC2007/JPEGImages/test_00001119.jpg 65,11,158,136,1
+/content/VOC2007/JPEGImages/test_00001245.jpg 265,1,655,571,1
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_286.jpg 170,176,421,519,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_152.jpg 544,46,900,474,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_640.jpg 249,319,704,944,0
+/content/VOC2007/JPEGImages/test_00002750.jpg 365,1,452,112,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_823.jpg 7,179,86,293,0 445,197,569,383,0 662,207,755,338,0
+/content/VOC2007/JPEGImages/test_00003146.jpg 140,21,353,260,1
+/content/VOC2007/JPEGImages/test_00001111.jpg 86,46,159,160,1
+/content/VOC2007/JPEGImages/test_00000330.jpg 84,54,130,110,1 130,36,199,116,1
+/content/VOC2007/JPEGImages/19_Couple_Couple_19_835.jpg 448,92,588,298,0 540,116,682,310,0
+/content/VOC2007/JPEGImages/test_00000060.jpg 285,156,494,454,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_459.jpg 421,76,559,290,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_666.jpg 156,118,242,220,0 706,152,788,262,0
+/content/VOC2007/JPEGImages/test_00003505.jpg 389,145,566,361,1
+/content/VOC2007/JPEGImages/test_00003762.jpg 99,37,147,89,0 445,190,491,253,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_766.jpg 557,225,648,353,0 419,317,459,361,0
+/content/VOC2007/JPEGImages/test_00001183.jpg 89,126,302,425,1 440,169,697,477,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_402.jpg 386,88,682,460,0
+/content/VOC2007/JPEGImages/test_00004360.jpg 132,79,183,152,0 346,70,399,138,1 94,41,144,119,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_239.jpg 498,138,768,516,0
+/content/VOC2007/JPEGImages/test_00003555.jpg 410,63,695,435,1 204,280,433,603,1
+/content/VOC2007/JPEGImages/test_00004823.jpg 50,1,332,378,1
+/content/VOC2007/JPEGImages/test_00004799.jpg 329,53,464,238,1
+/content/VOC2007/JPEGImages/test_00003258.jpg 203,76,315,222,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_764.jpg 632,371,652,395,0 737,344,753,366,0 756,368,777,392,0 834,357,854,380,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_292.jpg 440,274,520,398,0 628,316,702,414,0
+/content/VOC2007/JPEGImages/39_Ice_Skating_iceskiing_39_272.jpg 142,114,260,270,0 352,166,452,314,0 572,284,654,376,0 720,308,816,420,0 902,278,1022,406,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_592.jpg 8,120,54,188,0 131,164,173,218,0 44,278,104,356,0 245,253,312,356,0 292,191,337,247,0 386,150,436,225,0 474,295,546,391,0 590,121,646,190,0 647,164,682,213,0 711,194,737,235,0 756,138,797,208,0 881,142,929,205,0 870,275,954,397,0
+/content/VOC2007/JPEGImages/19_Couple_Couple_19_548.jpg 264,96,454,364,0 614,70,788,304,0
+/content/VOC2007/JPEGImages/test_00002690.jpg 685,2,752,86,0 402,64,458,154,1 647,38,700,107,0
+/content/VOC2007/JPEGImages/test_00000935.jpg 101,547,305,816,0 712,1055,851,1245,1 162,1101,295,1256,1
+/content/VOC2007/JPEGImages/test_00003626.jpg 251,75,340,230,0
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_333.jpg 469,127,590,288,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_694.jpg 267,318,699,925,0
+/content/VOC2007/JPEGImages/test_00004485.jpg 188,178,236,245,1
+/content/VOC2007/JPEGImages/test_00004787.jpg 298,65,361,163,1 120,70,196,163,1
+/content/VOC2007/JPEGImages/test_00001036.jpg 351,83,524,373,0 32,47,264,364,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_51.jpg 648,109,704,200,0 304,201,328,233,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_1038.jpg
+/content/VOC2007/JPEGImages/20_Family_Group_Family_Group_20_579.jpg 142,166,210,258,0 338,172,392,260,0 454,178,512,266,0 556,204,630,304,0 650,128,710,230,0 776,130,840,216,0 862,186,936,290,0 236,452,304,540,0 488,412,546,510,0 726,398,792,484,0
+/content/VOC2007/JPEGImages/test_00002523.jpg 395,0,565,194,1
+/content/VOC2007/JPEGImages/test_00002334.jpg 285,69,450,279,1 103,45,251,229,0
+/content/VOC2007/JPEGImages/test_00000955.jpg 100,16,349,319,0
+/content/VOC2007/JPEGImages/test_00002491.jpg 110,24,207,176,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_522.jpg 430,221,579,418,0
+/content/VOC2007/JPEGImages/test_00003995.jpg 215,85,602,593,1
+/content/VOC2007/JPEGImages/test_00003017.jpg 59,112,128,202,0 239,66,305,155,0 442,59,505,146,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_713.jpg 614,197,763,423,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_2_People_Visible_13_471.jpg 370,2,666,398,0
+/content/VOC2007/JPEGImages/test_00001301.jpg 325,139,556,446,1
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_913.jpg 871,240,897,272,0 36,216,47,249,0 218,142,263,207,0 529,197,564,247,0 689,223,716,267,0
+/content/VOC2007/JPEGImages/test_00001043.jpg 57,28,119,117,1
+/content/VOC2007/JPEGImages/test_00003614.jpg 138,45,208,143,0
+/content/VOC2007/JPEGImages/test_00003680.jpg 226,156,386,406,1
+/content/VOC2007/JPEGImages/test_00001677.jpg 52,135,295,428,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_538.jpg 284,140,374,292,0 474,110,574,236,0 706,214,770,340,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_142.jpg 246,198,362,432,0 606,304,741,466,0
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_545.jpg 376,294,484,470,0 548,242,676,406,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_2_People_Visible_13_381.jpg 390,180,574,424,0
+/content/VOC2007/JPEGImages/test_00001181.jpg 254,183,484,502,1
+/content/VOC2007/JPEGImages/test_00002489.jpg 73,102,168,236,1
+/content/VOC2007/JPEGImages/test_00001262.jpg 412,411,650,757,1
+/content/VOC2007/JPEGImages/19_Couple_Couple_19_940.jpg 444,165,762,664,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_60.jpg 306,81,421,238,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_88.jpg 272,214,386,374,0 558,244,700,434,0
+/content/VOC2007/JPEGImages/test_00002959.jpg 245,140,367,294,1
+/content/VOC2007/JPEGImages/test_00001810.jpg 279,107,374,248,1 1,248,42,362,0
+/content/VOC2007/JPEGImages/test_00001257.jpg 134,336,183,391,1 256,111,310,183,1 84,24,153,113,1 237,365,282,426,1 1,241,41,299,0
+/content/VOC2007/JPEGImages/40_Gymnastics_Gymnastics_40_57.jpg 530,161,697,422,0
+/content/VOC2007/JPEGImages/test_00002158.jpg 93,169,313,425,0 79,30,220,180,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_420.jpg 238,282,262,311,0 297,274,318,306,0 425,243,446,270,0 508,249,529,277,0 639,306,660,337,0 718,318,742,348,0 791,370,815,405,0 952,359,978,391,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_790.jpg 312,68,424,244,0
+/content/VOC2007/JPEGImages/test_00002685.jpg 109,27,184,114,1
+/content/VOC2007/JPEGImages/test_00004188.jpg 93,107,226,256,1
+/content/VOC2007/JPEGImages/test_00002294.jpg 243,86,323,197,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_629.jpg 876,51,929,125,0 652,50,715,132,0 373,52,438,132,0 521,126,559,172,0 281,121,318,167,0 134,54,195,134,0 229,133,254,165,0 353,141,369,166,0 335,142,351,164,0 806,155,816,168,0 999,174,1006,186,0 1012,172,1019,182,0 982,176,991,187,0 563,103,579,125,0
+/content/VOC2007/JPEGImages/test_00002054.jpg 101,15,151,88,1
+/content/VOC2007/JPEGImages/test_00002625.jpg 492,168,634,352,1 132,170,260,341,1
+/content/VOC2007/JPEGImages/test_00003620.jpg 126,62,202,178,0
+/content/VOC2007/JPEGImages/test_00003829.jpg 416,148,670,505,1
+/content/VOC2007/JPEGImages/test_00000221.jpg 77,41,110,85,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_340.jpg 467,54,514,103,0 46,169,65,188,0
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_329.jpg 508,56,636,258,0
+/content/VOC2007/JPEGImages/30_Surgeons_Surgeons_30_525.jpg 438,80,522,186,0 620,98,678,178,0 218,156,310,338,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_36.jpg 304,276,498,558,0
+/content/VOC2007/JPEGImages/test_00003722.jpg 209,124,596,521,1
+/content/VOC2007/JPEGImages/test_00000255.jpg 160,51,206,123,1
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_314.jpg 344,68,416,180,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_379.jpg 573,1006,586,1026,0 657,1002,673,1025,0 685,1009,697,1026,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_586.jpg 281,219,673,656,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_604.jpg 630,82,734,234,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_274.jpg 352,145,608,527,0
+/content/VOC2007/JPEGImages/test_00004719.jpg 332,132,651,615,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_542.jpg 193,48,290,189,0 505,57,562,158,0 732,80,833,225,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_262.jpg 520,205,995,776,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_358.jpg 412,208,682,552,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_578.jpg 440,256,756,684,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_33.jpg 416,112,628,374,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_477.jpg 378,114,606,476,0
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_726.jpg 376,188,608,350,0
+/content/VOC2007/JPEGImages/test_00001223.jpg 198,124,370,362,1
+/content/VOC2007/JPEGImages/test_00004040.jpg 218,109,479,553,1
+/content/VOC2007/JPEGImages/test_00003949.jpg 174,113,214,161,1
+/content/VOC2007/JPEGImages/test_00003691.jpg 1,71,50,125,0 125,104,162,142,0 188,57,252,124,1
+/content/VOC2007/JPEGImages/61_Street_Battle_streetfight_61_635.jpg 384,199,541,423,0
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_774.jpg 642,74,820,303,0 430,60,529,167,0 494,559,524,597,0 189,586,204,603,0 179,566,188,578,0 206,574,215,586,0 265,595,273,608,0 362,552,376,570,0 273,540,281,552,0 249,552,257,563,0 20,553,40,573,0 155,595,163,605,0 430,580,440,593,0 196,546,203,558,0 172,625,181,639,0 162,614,171,627,0 254,569,264,581,0 230,546,238,558,0 232,585,241,593,0 270,622,279,634,0 293,557,301,568,0 189,539,198,552,0 169,551,179,565,0 231,621,242,634,0 296,599,301,608,0 283,583,289,592,0 206,538,214,544,0 171,542,180,551,0 236,591,246,603,0 208,591,214,597,0 178,582,183,591,0
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_53.jpg 188,220,432,556,0
+/content/VOC2007/JPEGImages/test_00004647.jpg 337,82,535,350,1
+/content/VOC2007/JPEGImages/test_00003717.jpg 39,90,117,194,1 279,233,361,343,1
+/content/VOC2007/JPEGImages/test_00001481.jpg 47,115,143,243,1
+/content/VOC2007/JPEGImages/test_00001834.jpg 122,95,333,397,1
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_92.jpg 330,20,380,94,0 593,95,644,169,0 863,222,903,285,0 467,241,506,293,0 706,240,742,298,0 83,350,119,400,0 97,274,136,321,0 47,287,88,342,0 234,268,267,313,0
+/content/VOC2007/JPEGImages/test_00004282.jpg 218,162,389,364,1
+/content/VOC2007/JPEGImages/9_Press_Conference_Press_Conference_9_182.jpg 440,160,534,278,0
+/content/VOC2007/JPEGImages/test_00004052.jpg 348,12,392,68,0 201,61,243,116,1
+/content/VOC2007/JPEGImages/test_00001704.jpg 180,61,340,280,1
+/content/VOC2007/JPEGImages/test_00000414.jpg 12,54,67,131,0 93,65,124,101,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_511.jpg 240,48,298,130,0 738,74,800,150,0 930,844,988,916,0
+/content/VOC2007/JPEGImages/test_00002140.jpg 195,49,250,139,1 1,18,32,97,0
+/content/VOC2007/JPEGImages/test_00004437.jpg 247,43,308,132,1 129,101,189,159,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_212.jpg 790,66,870,176,0
+/content/VOC2007/JPEGImages/27_Spa_Spa_27_576.jpg 685,324,718,374,0 906,327,938,377,0 612,308,643,363,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_809.jpg 328,28,674,510,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_615.jpg 559,367,632,452,0 393,335,428,396,0 309,321,396,461,0 137,369,173,407,0 629,354,681,447,0 786,149,966,507,0 686,419,780,612,0 236,297,375,457,0
+/content/VOC2007/JPEGImages/test_00004730.jpg 110,1,315,224,1 1,228,195,479,1 522,487,718,720,1 147,483,373,749,1 269,234,491,485,1 555,230,772,495,1 498,11,713,248,1
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_645.jpg 233,25,725,673,0
+/content/VOC2007/JPEGImages/test_00002751.jpg 614,305,995,784,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_941.jpg 182,208,476,556,0
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_142.jpg
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_208.jpg 467,130,594,324,0
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_913.jpg 437,157,621,446,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_728.jpg 3,126,704,951,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_842.jpg 343,134,518,381,0 743,574,918,818,0
+/content/VOC2007/JPEGImages/test_00001023.jpg 104,0,220,152,1
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_940.jpg 464,104,662,396,0
+/content/VOC2007/JPEGImages/40_Gymnastics_Gymnastics_40_887.jpg 95,151,141,204,0 189,89,229,136,0 314,75,359,130,0 431,83,477,136,0 550,68,597,120,0 686,49,732,98,0 746,101,794,158,0 839,65,886,111,0 874,106,921,168,0 626,134,669,185,0 482,139,532,194,0 356,150,405,202,0 214,138,259,192,0 104,281,152,339,0 250,280,298,338,0 383,292,433,350,0 522,278,573,336,0 660,280,718,334,0 809,273,858,329,0 137,400,189,466,0 330,406,382,466,0 522,389,581,449,0 760,380,814,440,0
+/content/VOC2007/JPEGImages/test_00001073.jpg 119,74,249,234,1
+/content/VOC2007/JPEGImages/test_00002819.jpg 300,86,364,125,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_471.jpg 351,130,590,489,0
+/content/VOC2007/JPEGImages/test_00003335.jpg 176,164,336,416,1
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_848.jpg 458,120,560,202,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_229.jpg 410,108,607,421,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_170.jpg 362,238,712,722,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_325.jpg 144,104,526,504,0 558,94,974,612,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_630.jpg 309,243,393,366,0 610,583,718,715,0
+/content/VOC2007/JPEGImages/test_00003742.jpg 287,80,559,427,1
+/content/VOC2007/JPEGImages/test_00001437.jpg 274,175,489,471,1
+/content/VOC2007/JPEGImages/test_00004310.jpg 124,26,209,134,0
+/content/VOC2007/JPEGImages/test_00003421.jpg 323,130,543,420,1
+/content/VOC2007/JPEGImages/test_00000111.jpg 152,45,209,115,1
+/content/VOC2007/JPEGImages/30_Surgeons_Surgeons_30_655.jpg 497,261,530,298,0 772,236,806,282,0
+/content/VOC2007/JPEGImages/test_00004651.jpg 143,762,266,938,1 509,774,630,942,1 329,210,442,376,1 259,1214,371,1359,1
+/content/VOC2007/JPEGImages/test_00003937.jpg 68,30,104,86,1
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_787.jpg 426,32,618,314,0
+/content/VOC2007/JPEGImages/test_00004670.jpg 154,62,346,304,1
+/content/VOC2007/JPEGImages/test_00003912.jpg 108,79,172,173,0
+/content/VOC2007/JPEGImages/test_00001943.jpg 43,29,215,246,1
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_68.jpg 402,349,439,402,0 650,337,683,385,0 875,318,908,367,0
+/content/VOC2007/JPEGImages/test_00001625.jpg 206,141,498,527,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_796.jpg 326,198,382,286,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_288.jpg 837,249,892,315,0 649,101,704,167,0 568,78,623,150,0 444,156,490,219,0 317,117,373,190,0 382,127,428,178,0 765,266,795,317,0 532,397,561,450,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_521.jpg 501,230,637,417,0
+/content/VOC2007/JPEGImages/test_00003311.jpg 100,137,200,279,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_246.jpg 228,312,754,1039,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_410.jpg 492,374,500,384,0 385,377,390,382,0 108,339,116,348,0 470,387,475,392,0 161,274,192,308,0 248,321,266,342,0 216,354,226,365,0 298,338,311,353,0 720,250,760,301,0 639,319,663,352,0 553,354,569,369,0 989,409,1011,432,0 897,359,914,380,0 962,373,976,389,0 915,369,927,384,0 60,330,72,346,0 33,321,47,336,0 592,374,602,386,0 517,377,526,389,0 580,382,587,392,0 366,365,375,376,0 329,358,342,372,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_851.jpg 104,174,314,424,0
+/content/VOC2007/JPEGImages/27_Spa_Spa_27_581.jpg 66,276,107,334,0 595,252,625,294,0 827,290,868,343,0
+/content/VOC2007/JPEGImages/test_00001483.jpg 116,140,190,226,0 265,53,334,133,0 178,63,242,154,0 403,101,471,187,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_132.jpg 283,499,360,608,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_789.jpg 448,242,588,402,0
+/content/VOC2007/JPEGImages/27_Spa_Spa_27_215.jpg 489,148,522,189,0 375,296,408,333,0 92,179,105,193,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_549.jpg 606,62,630,96,0 713,64,736,96,0 812,76,834,103,0 923,65,948,97,0
+/content/VOC2007/JPEGImages/test_00000365.jpg 127,61,173,114,1
+/content/VOC2007/JPEGImages/test_00000184.jpg 87,182,160,272,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_675.jpg 706,272,796,412,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_137.jpg 541,166,592,215,0 379,484,418,503,0
+/content/VOC2007/JPEGImages/test_00000775.jpg 288,53,338,147,1
+/content/VOC2007/JPEGImages/test_00001222.jpg 204,107,449,433,1
+/content/VOC2007/JPEGImages/test_00002562.jpg 76,63,172,209,1
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_630.jpg 644,72,724,174,0 270,42,367,157,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_150.jpg 190,64,272,176,0 720,52,792,166,0
+/content/VOC2007/JPEGImages/test_00000561.jpg 192,78,248,182,1
+/content/VOC2007/JPEGImages/test_00000207.jpg 131,53,166,94,1
+/content/VOC2007/JPEGImages/test_00000786.jpg 152,448,198,507,0 367,414,415,489,0 491,444,516,478,0 271,409,309,456,1 674,441,704,486,0
+/content/VOC2007/JPEGImages/test_00001614.jpg 50,31,204,206,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_633.jpg 430,94,538,246,0
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_86.jpg 215,115,237,150,0 328,98,358,138,0 369,111,388,136,0 461,76,495,127,0 816,145,843,188,0 771,145,795,177,0
+/content/VOC2007/JPEGImages/test_00002443.jpg 118,87,321,308,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_2_People_Visible_13_392.jpg 414,236,576,462,0
+/content/VOC2007/JPEGImages/test_00004869.jpg 182,123,304,283,1
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_209.jpg 973,143,985,161,0 314,152,354,206,0 772,123,807,164,0 903,145,916,159,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_582.jpg 696,125,896,398,0 277,61,358,170,0 474,192,493,221,0 447,47,467,76,0 20,92,39,118,0
+/content/VOC2007/JPEGImages/19_Couple_Couple_19_205.jpg 284,146,614,508,0 632,56,1024,522,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_369.jpg 262,190,394,392,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_386.jpg 312,126,442,302,0 530,92,632,280,0
+/content/VOC2007/JPEGImages/test_00001985.jpg 344,160,538,412,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_522.jpg 369,53,499,250,0 493,211,613,373,0
+/content/VOC2007/JPEGImages/test_00001781.jpg 198,341,383,613,1
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_70.jpg 222,134,358,324,0 684,296,814,460,0
+/content/VOC2007/JPEGImages/test_00001140.jpg 140,63,315,311,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_184.jpg 472,458,534,550,0
+/content/VOC2007/JPEGImages/test_00002021.jpg 264,84,533,486,1
+/content/VOC2007/JPEGImages/test_00000577.jpg 121,91,352,424,1
+/content/VOC2007/JPEGImages/test_00000630.jpg 215,137,560,582,1
+/content/VOC2007/JPEGImages/test_00004294.jpg 530,51,660,241,1
+/content/VOC2007/JPEGImages/test_00001520.jpg 207,253,577,717,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_770.jpg 470,108,584,255,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_710.jpg 504,228,728,544,0
+/content/VOC2007/JPEGImages/test_00000569.jpg 52,0,141,118,1
+/content/VOC2007/JPEGImages/test_00004683.jpg 48,35,119,132,1
+/content/VOC2007/JPEGImages/test_00004715.jpg 177,221,352,494,1
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_374.jpg 620,162,834,516,0
+/content/VOC2007/JPEGImages/test_00003845.jpg 131,28,182,100,0 154,124,206,202,1 237,132,254,166,1
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_10.jpg 304,90,398,234,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_66.jpg 249,225,306,345,0 627,142,701,282,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_42.jpg 381,234,549,471,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_929.jpg 82,172,156,268,0 184,158,246,256,0 490,158,542,238,0 796,168,868,266,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_884.jpg 256,178,306,252,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_109.jpg 534,144,706,362,0 878,178,942,264,0
+/content/VOC2007/JPEGImages/test_00001904.jpg 203,159,265,221,0 294,162,350,222,1
+/content/VOC2007/JPEGImages/test_00001042.jpg 184,48,314,234,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_882.jpg 0,217,22,249,0 46,267,72,291,0 33,309,56,331,0 9,390,37,418,0 50,356,72,378,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_625.jpg 443,155,632,454,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_417.jpg 422,269,515,397,0
+/content/VOC2007/JPEGImages/test_00003815.jpg 114,52,244,237,0
+/content/VOC2007/JPEGImages/test_00002560.jpg 490,184,902,800,1
+/content/VOC2007/JPEGImages/test_00000683.jpg 212,168,308,301,1
+/content/VOC2007/JPEGImages/test_00003044.jpg 113,363,260,545,1 464,234,622,442,1
+/content/VOC2007/JPEGImages/test_00001460.jpg 352,117,509,296,0
+/content/VOC2007/JPEGImages/52_Photographers_taketouristphotos_52_590.jpg 218,322,298,422,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_750.jpg 370,100,574,418,0
+/content/VOC2007/JPEGImages/test_00001291.jpg 350,44,457,186,0 72,70,241,288,1
+/content/VOC2007/JPEGImages/test_00001300.jpg 475,54,550,182,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_810.jpg 285,201,759,919,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_849.jpg 198,64,292,196,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_199.jpg 514,327,580,443,0 680,401,707,438,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_13.jpg 288,204,565,552,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_700.jpg 270,185,765,859,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_622.jpg 643,347,727,486,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_531.jpg 258,56,358,230,0 704,78,806,272,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_336.jpg 362,236,566,508,0
+/content/VOC2007/JPEGImages/test_00003979.jpg 25,50,88,131,0
+/content/VOC2007/JPEGImages/test_00003157.jpg 143,56,176,109,1 241,121,268,165,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_844.jpg 110,66,203,224,0 9,87,90,203,0 188,110,254,191,0 239,182,346,340,0 367,155,594,474,0 696,107,845,298,0 830,90,920,272,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_104.jpg 578,833,679,947,0
+/content/VOC2007/JPEGImages/test_00002791.jpg 167,177,396,536,1
+/content/VOC2007/JPEGImages/test_00003702.jpg 59,1,156,131,0
+/content/VOC2007/JPEGImages/test_00003461.jpg 164,170,214,249,1
+/content/VOC2007/JPEGImages/test_00000026.jpg 36,135,98,237,0 456,183,506,258,0 599,143,639,244,0 279,100,351,204,1
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_429.jpg 378,158,680,606,0
+/content/VOC2007/JPEGImages/52_Photographers_taketouristphotos_52_543.jpg 425,524,685,844,0
+/content/VOC2007/JPEGImages/test_00002192.jpg 379,163,459,273,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_2_People_Visible_13_246.jpg 310,246,513,519,0
+/content/VOC2007/JPEGImages/test_00004568.jpg 61,79,241,356,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_919.jpg 786,176,856,272,0 416,40,500,160,0
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_1005.jpg 390,128,550,366,0
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_774.jpg 184,379,256,472,0 349,371,424,462,0 509,427,576,507,0 752,344,816,445,0 659,1048,734,1152,0
+/content/VOC2007/JPEGImages/test_00000193.jpg 129,45,191,129,1
+/content/VOC2007/JPEGImages/27_Spa_Spa_27_886.jpg 318,156,522,430,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_2_People_Visible_13_217.jpg 336,120,618,546,0
+/content/VOC2007/JPEGImages/test_00001273.jpg 264,46,414,243,1
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_325.jpg 440,323,560,456,0
+/content/VOC2007/JPEGImages/test_00001370.jpg 316,154,575,506,1
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_36.jpg 616,85,664,143,0
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_879.jpg 208,64,280,176,0
+/content/VOC2007/JPEGImages/test_00000814.jpg 236,92,322,208,1 192,309,257,392,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_238.jpg 323,231,724,793,0
+/content/VOC2007/JPEGImages/test_00001845.jpg 230,118,328,232,1
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_776.jpg 327,240,837,806,0
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_346.jpg 240,339,772,1078,0
+/content/VOC2007/JPEGImages/test_00002059.jpg 74,51,155,149,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_865.jpg 490,76,598,234,0
+/content/VOC2007/JPEGImages/test_00003047.jpg 342,109,396,175,1 56,183,117,267,1 152,82,185,122,0 250,50,308,125,0 82,123,120,166,1 3,127,22,146,0
+/content/VOC2007/JPEGImages/test_00003164.jpg 108,0,357,318,1
+/content/VOC2007/JPEGImages/test_00004224.jpg 364,221,463,334,1 448,88,522,180,1 718,292,767,405,1
+/content/VOC2007/JPEGImages/test_00000886.jpg 225,102,559,537,1
+/content/VOC2007/JPEGImages/test_00001486.jpg 111,77,153,121,0
+/content/VOC2007/JPEGImages/39_Ice_Skating_Ice_Skating_39_279.jpg 474,210,570,342,0
+/content/VOC2007/JPEGImages/19_Couple_Couple_19_523.jpg 414,66,560,272,0 524,64,656,270,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_339.jpg 654,46,770,218,0 280,54,392,208,0
+/content/VOC2007/JPEGImages/38_Tennis_Tennis_38_18.jpg 290,94,350,164,0
+/content/VOC2007/JPEGImages/test_00001715.jpg 147,54,266,239,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_882.jpg 466,40,602,244,0
+/content/VOC2007/JPEGImages/test_00002395.jpg 154,63,208,135,0
+/content/VOC2007/JPEGImages/test_00002737.jpg 142,93,370,371,1
+/content/VOC2007/JPEGImages/test_00003527.jpg 197,60,468,426,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_389.jpg 198,68,278,198,0 644,48,758,212,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_669.jpg 227,254,270,309,0 399,237,435,293,0 538,243,580,297,0 793,188,861,264,0 734,146,743,158,0
+/content/VOC2007/JPEGImages/test_00002628.jpg 171,83,367,335,1
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_410.jpg 413,69,529,226,0 69,20,94,55,0 43,189,70,223,0
+/content/VOC2007/JPEGImages/test_00001431.jpg 72,37,121,108,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_On_Location_13_420.jpg 244,174,348,352,0 728,162,830,328,0
+/content/VOC2007/JPEGImages/test_00004141.jpg 84,267,364,641,1 461,234,731,565,1 467,4,535,105,1
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_775.jpg 819,75,908,192,0 512,36,541,72,0 548,34,566,55,0 456,48,476,72,0 249,6,280,43,0 313,20,337,56,0 301,23,324,63,0 401,66,429,102,0 179,44,194,62,0 78,34,112,72,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_578.jpg 514,392,524,404,0 219,341,260,397,0 321,358,348,392,0 352,367,368,392,0 385,376,399,399,0 434,381,451,403,0 452,368,464,392,0 500,395,516,412,0 416,373,428,391,0 526,384,537,399,0 539,383,548,393,0 551,383,563,398,0 579,376,590,389,0 488,386,497,399,0 569,395,579,406,0 3,378,32,424,0 87,388,115,428,0 199,370,218,395,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimmer_41_222.jpg 358,343,509,545,0 638,907,819,1106,0
+/content/VOC2007/JPEGImages/test_00004068.jpg 117,45,153,103,0 217,58,256,110,0 339,100,370,142,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_392.jpg 446,196,526,294,0 842,78,904,152,0 58,344,128,448,0
+/content/VOC2007/JPEGImages/test_00001234.jpg 185,1,529,436,1
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_133.jpg 386,139,645,525,0
+/content/VOC2007/JPEGImages/9_Press_Conference_Press_Conference_9_757.jpg 143,223,513,620,0
+/content/VOC2007/JPEGImages/27_Spa_Spa_27_621.jpg 185,139,248,226,0 601,199,641,246,0 309,453,382,505,0 673,376,721,410,0
+/content/VOC2007/JPEGImages/test_00003556.jpg 436,84,751,439,1 47,151,323,507,1
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_8.jpg 308,60,622,490,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_253.jpg 325,123,371,184,0 431,159,477,217,0 969,321,986,345,0
+/content/VOC2007/JPEGImages/test_00002406.jpg 65,41,158,145,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_220.jpg 242,74,356,240,0 678,74,794,232,0
+/content/VOC2007/JPEGImages/test_00001154.jpg 86,45,224,233,1
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_26.jpg 174,403,182,411,0 393,413,399,421,0 285,408,292,416,0 829,200,838,208,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_Sequences_13_595.jpg 200,128,266,205,0 598,47,708,211,0
+/content/VOC2007/JPEGImages/test_00000687.jpg 366,186,481,316,1 826,219,879,274,0
+/content/VOC2007/JPEGImages/test_00003235.jpg 259,52,387,236,0
+/content/VOC2007/JPEGImages/30_Surgeons_Surgeons_30_490.jpg 290,333,786,1067,0
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_786.jpg 477,522,644,755,0
+/content/VOC2007/JPEGImages/test_00002636.jpg 53,26,144,129,0
+/content/VOC2007/JPEGImages/27_Spa_Spa_27_32.jpg 668,380,884,530,0
+/content/VOC2007/JPEGImages/51_Dresses_wearingdress_51_61.jpg 370,271,620,587,0
+/content/VOC2007/JPEGImages/test_00004607.jpg 39,48,160,223,1
+/content/VOC2007/JPEGImages/test_00002141.jpg 54,30,164,169,1 195,22,244,109,1
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_275.jpg 230,158,300,260,0 350,168,420,258,0 478,166,544,244,0 620,164,688,252,0 740,130,818,234,0
+/content/VOC2007/JPEGImages/test_00004920.jpg 176,6,383,324,1
+/content/VOC2007/JPEGImages/test_00000894.jpg 100,55,292,300,1
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_530.jpg 614,164,732,318,0 262,110,372,256,0
+/content/VOC2007/JPEGImages/test_00004477.jpg 123,40,166,95,1
+/content/VOC2007/JPEGImages/test_00004408.jpg 257,150,426,374,1
+/content/VOC2007/JPEGImages/test_00004153.jpg 246,57,313,154,0
+/content/VOC2007/JPEGImages/test_00001598.jpg 224,100,557,536,1
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_584.jpg 326,160,446,306,0 572,72,696,230,0
+/content/VOC2007/JPEGImages/test_00003315.jpg 275,123,502,439,1
+/content/VOC2007/JPEGImages/test_00003423.jpg 168,70,279,221,1
+/content/VOC2007/JPEGImages/20_Family_Group_Family_Group_20_648.jpg 106,498,224,644,0 326,484,420,620,0 452,474,552,616,0 586,284,678,430,0 726,178,850,360,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_379.jpg 476,218,580,360,0
+/content/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_130.jpg 191,271,220,329,0 368,106,418,162,0
+/content/VOC2007/JPEGImages/test_00002369.jpg 278,140,463,406,1
+/content/VOC2007/JPEGImages/test_00000148.jpg 159,34,200,80,1
+/content/VOC2007/JPEGImages/test_00002492.jpg 309,85,583,436,1
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_56.jpg 516,196,704,444,0
+/content/VOC2007/JPEGImages/49_Greeting_peoplegreeting_49_569.jpg 160,56,316,280,0 782,120,928,342,0
+/content/VOC2007/JPEGImages/41_Swimming_Swimming_41_118.jpg 628,318,752,418,0
+/content/VOC2007/JPEGImages/13_Interview_Interview_2_People_Visible_13_462.jpg 483,66,603,252,0
+/content/VOC2007/JPEGImages/test_00001610.jpg 26,28,145,169,0 213,19,337,159,0
+/content/VOC2007/JPEGImages/52_Photographers_photographertakingphoto_52_437.jpg 238,90,320,216,0
+/content/VOC2007/JPEGImages/test_00002541.jpg 516,1,657,228,1
+/content/VOC2007/JPEGImages/28_Sports_Fan_Sports_Fan_28_632.jpg 401,60,454,145,0 584,222,613,276,0 447,227,499,290,0 757,205,804,269,0 934,323,977,378,0 121,491,137,512,0 73,488,87,509,0 130,471,148,496,0 177,501,193,520,0 229,474,243,490,0 262,483,277,503,0 260,456,273,474,0 225,453,238,472,0 182,438,196,456,0 229,436,241,453,0 261,446,274,463,0 245,421,254,436,0 222,384,234,399,0 140,439,152,454,0 44,445,55,458,0 30,473,40,488,0 64,407,75,422,0 59,391,71,405,0 17,384,26,396,0 17,448,26,462,0 136,393,145,407,0 117,394,128,409,0 81,379,91,393,0 70,465,82,481,0 89,484,102,501,0 154,416,167,434,0 152,379,163,394,0 211,402,222,415,0 177,403,187,417,0 97,429,110,444,0 268,423,280,440,0 304,482,320,502,0 296,468,309,485,0 310,455,324,475,0 190,358,199,372,0 28,492,41,509,0 133,427,144,443,0 139,352,149,367,0 109,359,119,373,0 172,453,187,473,0 39,350,50,364,0 70,352,80,367,0 87,306,98,319,0 206,346,214,358,0 105,414,118,432,0 249,390,260,403,0 287,412,297,425,0 307,405,315,418,0 181,386,189,397,0
+/content/VOC2007/JPEGImages/test_00000829.jpg 181,134,298,310,1
+/content/VOC2007/JPEGImages/test_00002227.jpg 244,119,438,321,1
+/content/VOC2007/JPEGImages/test_00001360.jpg 239,146,321,255,1 402,120,467,226,1
+/content/VOC2007/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_1030.jpg 434,262,456,289,0 367,236,380,249,0 906,245,923,268,0
+/content/VOC2007/JPEGImages/39_Ice_Skating_Ice_Skating_39_163.jpg 263,134,311,204,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_273.jpg 152,160,218,264,0 306,228,376,324,0 450,72,536,194,0 644,74,720,170,0 854,140,934,246,0
+/content/VOC2007/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_735.jpg 230,94,370,260,0 712,110,844,284,0
+/content/VOC2007/JPEGImages/test_00001046.jpg 122,73,152,112,0 219,101,247,134,0 252,54,282,102,1
+/content/VOC2007/JPEGImages/4_Dancing_Dancing_4_194.jpg
+/content/VOC2007/JPEGImages/test_00003352.jpg 235,1,436,226,0
+/content/VOC2007/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_361.jpg 470,106,577,286,0
